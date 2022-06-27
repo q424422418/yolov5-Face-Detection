@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/17.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/9.jpeg

@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/1.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/10.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/11.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/12.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/13.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/14.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/15.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/16.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/18.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/2.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/3.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/4.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/5.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/6.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/7.jpeg
+C:\Users\ASUS\Desktop\opencv\yolov5\VOCdevkit/VOC2007/JPEGImages/8.jpeg
